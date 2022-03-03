@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tugas Praktikum1 Git/Github</title>
+	</head>
+	<body>
+		<?php
+			echo "<p>Nama : Mia Karisma Haq</p>";
+			echo "<p>NIM : 2102165</p>";
+		?>
+	</body>
+</html>
